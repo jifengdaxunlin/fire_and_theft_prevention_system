@@ -1,0 +1,52 @@
+.\objects\ir.o: ..\bsp\scr\IR.c
+.\objects\ir.o: ..\bsp\include\IR.h
+.\objects\ir.o: ..\bsp\include\DELAY.h
+.\objects\ir.o: ..\libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\ir.o: ..\libraries\CMSIS\Include\core_cm4.h
+.\objects\ir.o: D:\application\KEIL application1\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\ir.o: ..\libraries\CMSIS\Include\core_cmInstr.h
+.\objects\ir.o: ..\libraries\CMSIS\Include\core_cmFunc.h
+.\objects\ir.o: ..\libraries\CMSIS\Include\core_cmSimd.h
+.\objects\ir.o: ..\libraries\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\ir.o: ..\module\stm32f4xx_conf.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\objects\ir.o: ..\libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
+.\objects\ir.o: ..\libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
+.\objects\ir.o: D:\application\KEIL application1\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\ir.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\ir.o: D:\application\KEIL application1\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\ir.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\ir.o: ..\FreeRTOS\include\projdefs.h
+.\objects\ir.o: ..\FreeRTOS\include\portable.h
+.\objects\ir.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\ir.o: ..\FreeRTOS\port\RVDS\ARM_CM4F\portmacro.h
+.\objects\ir.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\ir.o: ..\FreeRTOS\include\task.h
+.\objects\ir.o: ..\FreeRTOS\include\list.h
+.\objects\ir.o: ..\FreeRTOS\include\semphr.h
+.\objects\ir.o: ..\FreeRTOS\include\queue.h
+.\objects\ir.o: D:\application\KEIL application1\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
